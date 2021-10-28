@@ -1,0 +1,319 @@
+@media (max-width: 1650px) {
+  .testimonial-section .side-space {
+    padding-left: 155px;
+  }
+}
+@media (max-width: 1400px) {
+  .header .navbar .nav-item a {
+    font-size: 14px;
+    margin-right: 25px;
+  }
+  .header .link a {
+    font-size: 17px;
+    padding-right: 5px;
+  }
+}
+
+@media (max-width: 1370px) {
+  .testimonial-section .testCarosss-item .test-content {
+    padding: 30px !important;
+  }
+  .testimonial-section .side-space {
+    padding-left: 115px;
+  }
+  .contact-section {
+    padding-left: 15px;
+    padding-right: 0;
+  }
+  .contact-section .contact-title h4.side-heading {
+    padding-left: 0;
+  }
+  .contact-section .contact-title .contact-image {
+    justify-content: flex-start !important;
+  }
+}
+@media (max-width: 1270px) {
+  .header .link {
+    font-size: 13px;
+    padding-right: 10px !important;
+  }
+}
+@media (max-width: 1250px) {
+  .header .link {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .header .logo img {
+    padding-left: 10px;
+  }
+  .header .link {
+    display: none !important;
+  }
+  .header .navbar-toggler {
+    color: #fff;
+  }
+}
+
+@media (max-width: 991px) {
+  .header {
+    padding: 0;
+  }
+  .header .header-btn {
+    margin-left: auto;
+    margin-right: 20px;
+  }
+  .header .navbar-toggler {
+    border: none;
+    padding: 0;
+    margin-top: 5px;
+    margin-right: 10px;
+  }
+  .header .navbar-toggler-icon {
+    display: block;
+  }
+  .header .navbar-toggler-icon i {
+    font-size: 20px;
+  }
+  .header .navbar .main-nav {
+    background-color: #1c1c1c;
+    position: absolute;
+    top: 95px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    display: none;
+    text-align: left;
+    z-index: 999;
+    -webkit-box-shadow: 0px 5px 5px #bfbfbf61;
+    box-shadow: 0px 5px 5px #bfbfbf61;
+  }
+  .header .navbar .main-nav .nav-item {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .header .navbar .main-nav .nav-item a {
+    color: #fff;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 13px 15px;
+    width: 100%;
+    line-height: 30px;
+  }
+  .header-mbl-btn {
+    margin-left: auto;
+    margin-right: 20px;
+  }
+  .banner-section .side-link {
+    top: 50%;
+  }
+  .about-section .about-image {
+    margin-top: 60px;
+    padding-top: 30px;
+  }
+  .services-item-block .item-content {
+    padding: 40px 10px;
+    text-align: center;
+  }
+  .services-item-block .item-content .item-image {
+    margin: 0 auto;
+  }
+  .services-item-block .item-content .content-item {
+    padding-top: 20px;
+    margin-left: 0;
+  }
+  .services-item-block .item-content .content-item h4 a {
+    text-align: center;
+  }
+  .services-item-block .item-content .content-item p {
+    text-align: center;
+  }
+  .pricing-card {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 600px) {
+  .testimonial-section .side-space {
+    padding-left: 0px;
+  }
+}
+@media (max-width: 575px) {
+  h4 {
+    font-size: 20px;
+  }
+  .section-title {
+    padding-bottom: 35px;
+  }
+  .banner-section {
+    margin-right: 50px;
+  }
+  .banner-content span {
+    font-size: 20px;
+  }
+  .banner-content h1 {
+    font-size: 50px;
+  }
+  .banner-section .side-link {
+    top: 43%;
+    right: -425px;
+  }
+  .pricing-card .pricing-header .pricing-price p::after {
+    top: 0;
+  }
+  .testimonial-section .testimonial-carosss {
+    padding: 30px 0px 20px 0px;
+  }
+  .testimonial-section .testCarosss-item {
+    margin: 100px 10px 30px 10px !important;
+  }
+  .testimonial-section .testCarosss-item .test-content {
+    padding: 30px 15px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  section {
+    padding: 40px 0px !important;
+  }
+  h2 {
+    font-size: 25px;
+  }
+  h3 {
+    font-size: 20px !important;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  h5 {
+    font-size: 17px !important;
+  }
+  .banner-section .banner-content h1 {
+    padding-bottom: 0px;
+    font-size: 35px;
+    letter-spacing: 0;
+  }
+  .banner-section .banner-content p {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  .banner-section .banner-content span {
+    font-size: 20px;
+  }
+  .banner-section .side-link {
+    top: 43%;
+    right: -395px;
+  }
+  .banner-section .side-link a {
+    font-size: 16px;
+  }
+  .banner-btn .btn {
+    width: 160px;
+    padding: 12px 0;
+  }
+  #about {
+    margin: 40px 0 !important;
+    margin-bottom: 0px !important;
+  }
+  .about-section .section-title h2 {
+    font-size: 25px;
+  }
+  .about-content .about-block .icon {
+    margin-bottom: 20px;
+  }
+  .about-content .about-block .content h4 a {
+    text-align: left;
+  }
+
+  .video-image .video-bg h4 {
+    font-size: 18px;
+  }
+  .video-image .video-bg .fancy-box .video-box .video-btn {
+    height: 65px;
+    width: 65px;
+    line-height: 70px;
+  }
+  .video-image .video-bg .fancy-box .video-box .video-btn i {
+    font-size: 15px;
+    top: -2px;
+    left: 2px;
+  }
+  .service-section {
+    padding-top: 40px !important;
+    margin-top: 0px;
+  }
+  .services-item-block .content-item p {
+    padding: 0 15px;
+  }
+  .carousel-section {
+    padding-top: 40px;
+  }
+  .carousel-section .carosss-content {
+    top: 40%;
+    left: 27px;
+    padding: 15px;
+  }
+  .carousel-section .carosss-content h3 {
+    font-size: 15px;
+  }
+  .pricing-card {
+    padding: 40px 15px;
+  }
+  .pricing-card .pricing-header .pricing-price p {
+    font-size: 25px;
+  }
+  .pricing-card .pricing-body .pricing-list li i {
+    margin-right: 14px;
+  }
+  .testimonial-section
+    .testimonial-carosss
+    .testCarosss-item
+    .transparent-image
+    img {
+    top: 0%;
+    left: 13%;
+  }
+  .counter-section .icon-box-item .counter-box {
+    padding: 30px 0px;
+  }
+  .counter-section .icon-box-item h3 {
+    font-size: 18px !important;
+  }
+  .counter-section .icon-box-item h3 span {
+    display: inline-block;
+    padding-right: 5px;
+  }
+}
+
+/* @media (max-width: 991px) {
+  .header {
+    padding: 0;
+  }
+  .header .navbar {
+    padding: 0px 15px;
+  }
+  .header .navbar .main-nav {
+    background-color: #1c1c1c;
+    position: absolute;
+    top: 95px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    display: none;
+    text-align: left;
+    z-index: 999;
+    -webkit-box-shadow: 0px 5px 5px #bfbfbf61;
+    box-shadow: 0px 5px 5px #bfbfbf61;
+  }
+}
+@media (min-width: 1200px) {
+  .header .link {
+    display: none !important;
+  }
+}
+@media (max-width: 1270px) {
+  .header {
+    padding-right: 80px;
+  }
+} */
